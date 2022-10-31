@@ -1,0 +1,22 @@
+[
+    {
+        "id_product": 123,
+        "product_name": "Ноутбук",
+        "price": 45600
+    },
+    {
+        "id_product": 456,
+        "product_name": "Мышка",
+        "price": 1000
+    },
+    {
+        "id_product": 658,
+        "product_name": "Геймпад",
+        "price": 3500
+    },
+    {
+        "id_product": 723,
+        "product_name": "Клавиатура",
+        "price": 3350
+    }
+]
