@@ -1,0 +1,24 @@
+{
+    "amount": 46600,
+    "countGoods": 2,
+    "contents": [
+        {
+            "id_product": 456,
+            "product_name": "Мышка",
+            "price": 1000,
+            "quantity": 1
+        },
+        {
+            "quantity": 1,
+            "id_product": 658,
+            "product_name": "Геймпад",
+            "price": 3500
+        },
+        {
+            "quantity": 1,
+            "id_product": 723,
+            "product_name": "Клавиатура",
+            "price": 3350
+        }
+    ]
+}
